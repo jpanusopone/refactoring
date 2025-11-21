@@ -1,4 +1,6 @@
-a9e1823 (HEAD -> main, origin/main, origin/HEAD) Finished Task 1.1
+49d67af (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+9384605 Finished Task 1.2
+a9e1823 Finished Task 1.1
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
